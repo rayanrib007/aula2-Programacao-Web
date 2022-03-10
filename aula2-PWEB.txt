@@ -1,2 +1,6 @@
 Aula 2 PWEB
 Comandos GIT
+
+Fazendo request no repositório do criador
+
+nome: rayan ribeiro silva
